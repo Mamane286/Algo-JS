@@ -1,0 +1,25 @@
+n-> Antye
+faktoryel-> Antye
+i-> Antye
+
+{
+    faktoryel -> 1
+    i -> 1
+    n -> 0
+    
+   
+    tanke n < 0
+      Antre (Antre yon nonm :)
+      li(n)
+      
+
+    si (n==1)
+       faktoryel->faktoryel
+    si (n > 1)
+           pou i a n fè
+              faktoryel -> faktoryel * i
+          
+     Antre ("nonm factoryel la se :",faktoryel)
+        
+
+}
